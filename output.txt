@@ -1,0 +1,5 @@
+Similarity: 0.9970 (Computed on orig.txt and orig_0.8_add.txt) at 2024-09-05 13:38:39
+Similarity: 0.6824 (Computed on orig.txt and orig_0.8_del.txt) at 2024-09-05 13:40:00
+Similarity: 0.6836 (Computed on orig.txt and orig_0.8_dis_1.txt) at 2024-09-05 13:40:08
+Similarity: 0.7718 (Computed on orig.txt and orig_0.8_dis_10.txt) at 2024-09-05 13:40:13
+Similarity: 0.8470 (Computed on orig.txt and orig_0.8_dis_15.txt) at 2024-09-05 13:40:18
